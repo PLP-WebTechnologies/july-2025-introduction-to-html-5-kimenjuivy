@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn about sustainable gardening practices, eco-friendly techniques, and how to create an environmentally conscious garden that supports local wildlife and reduces environmental impact.">
+    <meta name="keywords" content="sustainable gardening, eco-friendly gardening, organic gardening, environmental gardening, green gardening tips">
+    <meta name="author" content="Green Garden Guide">
+    
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:title" content="Sustainable Gardening Guide - Eco-Friendly Garden Practices">
+    <meta property="og:description" content="Discover sustainable gardening techniques that help the environment while creating beautiful, productive gardens.">
+    <meta property="og:type" content="website">
+    
+    <title>Sustainable Gardening Guide - Eco-Friendly Garden Practices</title>
+    
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="canonical" href="https://example.com/sustainable-gardening-guide">
+</head>
+
+<body>
+    <!-- Skip Navigation for Screen Readers -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    
+   
+    <header role="banner">
+        <h1>Green Garden Guide</h1>
+        <p>Your resource for sustainable and eco-friendly gardening practices</p>
+    </header>
+  
+    <nav role="navigation" aria-label="Main navigation">
+        <h2>Navigation Menu</h2>
+        <ul>
+            <li><a href="#home" aria-current="page">Home</a></li>
+            <li><a href="#sustainable-practices">Sustainable Practices</a></li>
+            <li><a href="#plant-guides">Plant Guides</a></li>
+            <li><a href="#seasonal-tips">Seasonal Tips</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+   
+    <main id="main-content" role="main">
+        
+        <!-- Hero Section -->
+        <section aria-labelledby="hero-heading">
+            <h2 id="hero-heading">Welcome to Sustainable Gardening</h2>
+            <p>Discover how to create beautiful, productive gardens while protecting our environment. Learn techniques that support local ecosystems, reduce waste, and promote biodiversity.</p>
+        </section>
+        
+    
+        <section aria-labelledby="featured-heading">
+            <h2 id="featured-heading">Featured Sustainable Practices</h2>
+            
+            <article aria-labelledby="composting-heading">
+                <h3 id="composting-heading">Composting for Healthy Soil</h3>
+                <p>Composting transforms kitchen scraps and yard waste into nutrient-rich soil amendment. This practice reduces landfill waste while providing your plants with natural fertilizer.</p>
+                
+                <h4>Getting Started with Composting</h4>
+                <ol>
+                    <li>Choose a composting method that fits your space</li>
+                    <li>Collect green materials (nitrogen-rich) and brown materials (carbon-rich)</li>
+                    <li>Layer materials in proper ratios</li>
+                    <li>Turn regularly and maintain proper moisture</li>
+                    <li>Harvest finished compost after 3-6 months</li>
+                </ol>
+            </article>
+            
+            <article aria-labelledby="water-conservation-heading">
+                <h3 id="water-conservation-heading">Water Conservation Techniques</h3>
+                <p>Smart watering practices help conserve this precious resource while keeping your garden healthy. Learn about efficient irrigation methods and drought-resistant plant selection.</p>
+                
+                <h4>Water-Saving Strategies</h4>
+                <ul>
+                    <li>Install drip irrigation systems for targeted watering</li>
+                    <li>Use mulch to retain soil moisture</li>
+                    <li>Collect rainwater in barrels for later use</li>
+                    <li>Choose native plants adapted to local rainfall</li>
+                    <li>Water early morning or evening to reduce evaporation</li>
+                </ul>
+            </article>
+            
+            <article aria-labelledby="biodiversity-heading">
+                <h3 id="biodiversity-heading">Supporting Local Wildlife</h3>
+                <p>Create habitats that support birds, bees, butterflies, and other beneficial creatures. A biodiverse garden is more resilient and requires fewer external inputs.</p>
+                
+                <h4>Wildlife-Friendly Garden Features</h4>
+                <dl>
+                    <dt>Pollinator Plants</dt>
+                    <dd>Native flowering plants that provide nectar and pollen for bees and butterflies</dd>
+                    
+                    <dt>Bird Habitat</dt>
+                    <dd>Trees and shrubs that offer nesting sites and natural food sources</dd>
+                    
+                    <dt>Beneficial Insect Hotels</dt>
+                    <dd>Structures that provide shelter for pest-controlling insects</dd>
+                    
+                    <dt>Water Features</dt>
+                    <dd>Shallow dishes or small ponds that provide drinking water for wildlife</dd>
+                </dl>
+            </article>
+        </section>
+        
+        <!-- Seasonal Tips Section -->
+        <section aria-labelledby="seasonal-heading">
+            <h2 id="seasonal-heading">Seasonal Gardening Calendar</h2>
+            <p>Follow nature's rhythm with seasonal gardening activities that align with natural cycles.</p>
+            
+            <table>
+                <caption>Monthly Sustainable Gardening Activities</caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Season</th>
+                        <th scope="col">Key Activities</th>
+                        <th scope="col">Focus Areas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">Spring</th>
+                        <td>Soil preparation, seed starting, composting</td>
+                        <td>Planning and preparation</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Summer</th>
+                        <td>Watering, mulching, harvesting</td>
+                        <td>Maintenance and conservation</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Fall</th>
+                        <td>Leaf collection, cover crops, preservation</td>
+                        <td>Resource gathering and protection</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Winter</th>
+                        <td>Planning, tool maintenance, indoor growing</td>
+                        <td>Preparation and learning</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    
+  
+    <aside role="complementary" aria-labelledby="resources-heading">
+        <h2 id="resources-heading">Additional Resources</h2>
+        
+        <section aria-labelledby="quick-tips-heading">
+            <h3 id="quick-tips-heading">Quick Tips</h3>
+            <blockquote cite="https://example.com/gardening-wisdom">
+                <p>"The best time to plant a tree was 20 years ago. The second best time is now."</p>
+                <footer>— <cite>Chinese Proverb</cite></footer>
+            </blockquote>
+        </section>
+        
+        <section aria-labelledby="external-links-heading">
+            <h3 id="external-links-heading">Helpful Links</h3>
+            <ul>
+                <li><a href="https://www.epa.gov/soils" target="_blank" rel="noopener noreferrer">EPA Soil Information <span class="sr-only">(opens in new tab)</span></a></li>
+                <li><a href="https://www.usda.gov/topics/farming/organic" target="_blank" rel="noopener noreferrer">USDA Organic Guidelines <span class="sr-only">(opens in new tab)</span></a></li>
+                <li><a href="https://www.pollinator.org/" target="_blank" rel="noopener noreferrer">Pollinator Partnership <span class="sr-only">(opens in new tab)</span></a></li>
+            </ul>
+        </section>
+    </aside>
+    
+ 
+    <footer role="contentinfo">
+        <section aria-labelledby="contact-heading">
+            <h2 id="contact-heading">Contact Information</h2>
+            <address>
+                Green Garden Guide<br>
+                <a href="mailto:info@greengarden.example">info@greengarden.example</a><br>
+                <a href="tel:+1-555-0123">+1 (555) 012-3456</a>
+            </address>
+        </section>
+        
+        <section aria-labelledby="copyright-heading">
+            <h2 id="copyright-heading">Copyright</h2>
+            <p><small>&copy; 2025 Green Garden Guide. All rights reserved.</small></p>
+            <p><small>Last updated: <time datetime="2025-08-11">August 11, 2025</time></small></p>
+        </section>
+    </footer>
+</body>
+</html>
